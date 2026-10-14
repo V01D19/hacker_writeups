@@ -7,6 +7,7 @@
 * [Broken Access Control (BAC)](Broken-Access-Control.md)
 * [Insecure Direct Object Reference (IDOR)](IDOR.md)
 * [Business Logic Flaws](Business-Logic.md)
+* [Race Condition](Race-Condition.md)
 
 
 ## Updates

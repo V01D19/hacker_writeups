@@ -1,6 +1,6 @@
 # Bug Bounty Writeups Collection
 
-### curated collection of new and advanced Bug Bounty writeups and POCs.
+### collection of new and advanced Bug Bounty writeups and POCs.
 
 ## Categories
 

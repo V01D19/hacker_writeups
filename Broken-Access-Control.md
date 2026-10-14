@@ -8,3 +8,4 @@
 | An SSO Authentication Bypass on AT&T | h1 | [Read Here](https://medium.com/@Tyrion404/from-zero-credentials-to-super-admin-an-sso-authentication-bypass-on-at-t-996fe9d0ec1e) | |
 | One Endpoint. Way Too Many Secrets | h1 | [Read Here](https://medium.com/@Tyrion404/one-endpoint-way-too-many-secrets-ed0863f2fd9a) | |
 | Viewer-to-Member Privilege Escalation | h1 | [Read Here](https://medium.com/@felofady90/viewer-to-member-privilege-escalation-through-server-side-authorization-bypass-fdbcc5b3fa46) | |
+| SAML Username Collision Leading to Full ATO | h1 | [Read Here](https://medium.com/@m0n3m/saml-username-collision-leading-to-full-ato-b1f3595e1cc8) | |

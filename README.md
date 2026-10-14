@@ -8,6 +8,7 @@
 * [Insecure Direct Object Reference (IDOR)](IDOR.md)
 * [Business Logic Flaws](Business-Logic.md)
 * [Race Condition](Race-Condition.md)
+* [Remote Code Execution](RCE.md)
 
 
 ## Updates

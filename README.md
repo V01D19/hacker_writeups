@@ -9,6 +9,7 @@
 * [Business Logic Flaws](Business-Logic.md)
 * [Race Condition](Race-Condition.md)
 * [Remote Code Execution (RCE)](RCE.md)
+* [Information Disclosure](information-disclosure.md)
 
 
 ## Updates

@@ -10,3 +10,5 @@
 | Viewer-to-Member Privilege Escalation | h1 | [Read Here](https://medium.com/@felofady90/viewer-to-member-privilege-escalation-through-server-side-authorization-bypass-fdbcc5b3fa46) | |
 | SAML Username Collision Leading to Full ATO | h1 | [Read Here](https://medium.com/@m0n3m/saml-username-collision-leading-to-full-ato-b1f3595e1cc8) | |
 | zero width character leads to privilege escalation |  | [Read Here](https://medium.com/@tomahawk0ctf/how-can-a-zero-width-character-leads-to-privilege-escalation-fefe3ef4836f) | |
+| How I Found a Bug Bounty Vulnerability That Let Me Remove Other Users’ Access | h1 | [Read Here](https://medium.com/@ashour2j83/the-server-said-no-so-i-changed-the-question-eab91c71fa9a) | |
+
